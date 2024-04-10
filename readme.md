@@ -19,4 +19,4 @@ And the engine I'm gonna use, maybe I will use the Dash Engine, or Infinity Engi
 
 I haven't started making it yet, tho. But I'll maybe start it some other time.
 
-As you see, this is a humble and very long readme file with megabytes of storage and nothing very special, so if you ever want to contribute to this repo, please teach ne some github basics as well as writing markdown files like this, Thanks for reading it, btw.
+As you see, this is a humble and very long readme file with megabytes of storage and nothing very special, so if you ever want to contribute to this repo, please teach me some github basics as well as writing markdown files like this, Thanks for reading it, btw.

@@ -1,4 +1,4 @@
-# Sonic-SuperXOo
+# Sonic-SuperXO
 ## Hi, and welcome to this repository
 This is a repo for something I've planned to do. It's a 2.5D Classic Sonic fangame. I've not decided its name yet, but I'm thinking about names like Sonic SuperXO (I know it may seem a kinda weird name) which stands for "Sonic Super Extended Orion" (strange, isn't it?), or Sonic OrionX, or maybe simply Sonic Hyperstars, or just Sonic Superstars 2, or Sonic Mania 2 (tell me which name you like and the codename I should choose for this project, in the Discussions. Btw, please join the Discussions cuz I am alone here).
 

@@ -19,26 +19,42 @@ I am also planning to add a mod about this fangame to Sonic Superstars once it r
 I haven't thought of a plot yet, since I focused on gameplay while thinking of this game. So, I'm going to write the plot in the Discussions section when I figure it out.
 
 ## Zones
-And speaking about the zones, I think about remixing some of my favourite obscure zones in the entire Classic Sonic series, including the 8-bit games. I'm planning for:  
-1-Emerald Hill Zone  
-2-Starlight Zone  
-3-Bridge Zone  
-4-Sunset Park Zone  
-5-Diamond Dust Zone  
-6-Rusty Ruins Zone  
-7-Lava Reef Zone  
-8-Hidden Palace Zone (from Sonic 3&K, not Sonic 2)  
-9-Sandopolis Zone  
-10-Marble Garden Zone  
-11-Underground Zone  
-12-Gigalopolis Zone (or Gigapolis)  
-13-Tidal Tempest Zone  
-14-Quartz Quadrant Zone  
-15-Aquatic Ruin Zone  
-16-Crystal Egg Zone  
+And speaking about the zones, I think about remixing some of my favourite obscure zones in the entire Classic Sonic series, including the 8-bit games, as well as adding original zone concepts. The zones between parentheses are the zones that inspire the new ones. Those zones are:  
+  
+1-Diamond Isles Zone       (Emerald Hill Zone)  
+  
+2-Skyway Bridge Zone       (Bridge Zone)  
+  
+3-Shining Glimmer Zone     (totally original)  
+  
+4-Mineral Unders Zone      (Quartz Quadrant Zone & Underground Zone)  
+  
+5-Mirage Dunes Zone        (Sandopolis Zone)  
+  
+6-Coral Blades Zone        (Tidal Tempest Zone & Aquatic Ruin Zone & Marble Garden Zone & Rusty Ruin Zone)  
+  
+7-Luminous Dust Zone       (Diamond Dust Zone)  
+  
+8-Sakura Petals Zone       (totally original)  
+  
+9-Lava Reef Zone           (from Sonic 3 & Knuckles, not original)  
+  
+10-Hidden Palace Zone      (from Sonic 3 & Knuckles, not Sonic 2, not original)  
+  
+11-Twilight Trail Zone     (Sunset Park Zone)  
+  
+12-Techno Nexus Zone       (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
+  
+13-Mecha Forest Zone       (totally original)  
+  
+14-Binary Circuit Zone     (totally original)  
+  
+15-Celestial Crystals Zone (totally original)  
+  
+16-Egg Citadel Zone        (totally original)  
+  
 17-Sky Chase Zone (or maybe put it as a separate act in another zone).  
-Or, maybe I'll plan for new ones, for example, I've recently planned on a semi-final zone called Egg Citadel Zone. It will feature mirrors utilised in a very strange way (and a lot of sonics and stuff), speed sections (maybe like rainbow roads but not with rainbow colors exactly) as well as platforming sections (maybe I'll look for something like this in Silver Castle Zone from Sonic Blast, sorry 😅) some real royal palace vibes mixed with some factory machinery, and a final boss with all the zone's elements.
-
+  
 ## Multiplayer
 Multiplayer, tho, I plan for a normal local multiplayer, but maybe there will be an online multiplayer, although I don't think so (idk why).
 

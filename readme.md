@@ -1,6 +1,6 @@
-# Sonic-SuperXO
+# Sonic Hyperstars
 ## Hi, and welcome to this repository
-This is a repo for something I've planned to do. It's a 2.5D Classic Sonic fangame. I've not decided its name yet, but I'm thinking about names like Sonic SuperXO (I know it may seem a kinda weird name) which stands for "Sonic Super Extended Orion" (strange, isn't it?), or Sonic OrionX, or maybe simply Sonic Hyperstars, or just Sonic Superstars 2, or Sonic Mania 2 (tell me which name you like and the codename I should choose for this project, in the Discussions. Btw, please join the Discussions cuz I am alone here).
+This is a repo for something I've planned to do. It's a 2.5D Classic Sonic fangame. I've not decided its codename yet, but I'm thinking about names like Sonic SuperXO (I know it may seem a kinda weird name) which stands for "Sonic Super Extended Orion" (strange, isn't it?), or Sonic OrionX, or maybe simply Sonic Superstars 2 (tell me which codename I should choose for this project, in the Discussions. Btw, please join the Discussions cuz I am alone here).
 
 ## When did I start thinking about it
 The first time I decided to think about it when I imagined a Sonic Mania fangame with full moveset. This idea developed when I saw the success of Super Mario Bros. Wonder against Sonic Superstars, which led me to ask if Super Mario Bros. Wonder had some Sonic style in it, like sonic and his friends wall climbing (like in Sonic USB Online) and stomping (like Modern Sonic) and having interactive elemental shields and so on. So I decided to make a classic sonic 2.5D fangame with Super Mario Bros. Wonder Graphics and (sort of) some creative ideas. Some of the ideas may be a ripoff of Super Mario Bros. Wonder (as I'm afraid), but I just wanna get some ideas on my own.

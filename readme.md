@@ -19,7 +19,7 @@ I am also planning to add a mod about this fangame to Sonic Superstars once it r
 I haven't thought of a plot yet, since I focused on gameplay while thinking of this game. So, I'm going to write the plot in the Discussions section when I figure it out.
 
 ## Zones
-And speaking about the zones, I think about remixing some of my favourite obscure zones in the entire Classic Sonic series, including the 8-bit games. I'm planning for:
+And speaking about the zones, I think about remixing some of my favourite obscure zones in the entire Classic Sonic series, including the 8-bit games. I'm planning for:  
 1-Emerald Hill Zone  
 2-Starlight Zone  
 3-Bridge Zone  

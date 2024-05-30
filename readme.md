@@ -20,22 +20,23 @@ I haven't thought of a plot yet, since I focused on gameplay while thinking of t
 
 ## Zones
 And speaking about the zones, I think about remixing some of my favourite obscure zones in the entire Classic Sonic series, including the 8-bit games. I'm planning for:
-1-Emerald Hill Zone
-2-Starlight Zone
-3-Bridge Zone
-4-Sunset Park Zone
-5-Diamond Dust Zone
-6-Rusty Ruins Zone
-7-Lava Reef Zone
-8-Hidden Palace Zone (from Sonic 3&K, not Sonic 2)
-9-Sandopolis Zone
-10-Marble Garden Zone
-11-Underground Zone
-12-Gigalopolis Zone (or Gigapolis)
-13-Tidal Tempest Zone
-14-Quartz Quadrant Zone
-15-Aquatic Ruin Zone
-16-Crystal Egg Zone and Sky Chase Zone (or maybe put it as a separate act in another zone). Or, maybe I'll plan for new ones, for example, I've recently planned on a semi-final zone called Egg Citadel Zone. It will feature mirrors utilised in a very strange way (and a lot of sonics and stuff), speed sections (maybe like rainbow roads but not with rainbow colors exactly) as well as platforming sections (maybe I'll look for something like this in Silver Castle Zone from Sonic Blast, sorry 😅) some real royal palace vibes mixed with some factory machinery, and a final boss with all the zone's elements.
+1-Emerald Hill Zone  
+2-Starlight Zone  
+3-Bridge Zone  
+4-Sunset Park Zone  
+5-Diamond Dust Zone  
+6-Rusty Ruins Zone  
+7-Lava Reef Zone  
+8-Hidden Palace Zone (from Sonic 3&K, not Sonic 2)  
+9-Sandopolis Zone  
+10-Marble Garden Zone  
+11-Underground Zone  
+12-Gigalopolis Zone (or Gigapolis)  
+13-Tidal Tempest Zone  
+14-Quartz Quadrant Zone  
+15-Aquatic Ruin Zone  
+16-Crystal Egg Zone  
+17-Sky Chase Zone (or maybe put it as a separate act in another zone).  Or, maybe I'll plan for new ones, for example, I've recently planned on a semi-final zone called Egg Citadel Zone. It will feature mirrors utilised in a very strange way (and a lot of sonics and stuff), speed sections (maybe like rainbow roads but not with rainbow colors exactly) as well as platforming sections (maybe I'll look for something like this in Silver Castle Zone from Sonic Blast, sorry 😅) some real royal palace vibes mixed with some factory machinery, and a final boss with all the zone's elements.
 
 ## Multiplayer
 Multiplayer, tho, I plan for a normal local multiplayer, but maybe there will be an online multiplayer, although I don't think so (idk why).

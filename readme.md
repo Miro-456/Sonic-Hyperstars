@@ -12,14 +12,30 @@ This game may feature some different options, like having 3 types of movements, 
 The character cast will include 7 playable characters: Sonic, Tails, Knuckles, Amy, Mighty, Ray, and finally, Trip. I'm still thinking about adding Fang to the playable cast.
 
 ## Ideas and Features
-I had some ideas that I think may inspire me to make some new gimmicks, they're written on my Notes app (Samsung Notes, since I own a Samsung device). Some of these ideas are for example: QTEs like those in Modern Sonic games (Like Sonic Adventure and Sonic Generations) and Sonic 3 & Knuckles (like in Lava Reef Act 1, and well, chasing sequences), springs and boostpads to keep some momentum and flow (some would become used in funny ways, especially in loops 😁), Variable Autoscrolling Speed (like in Tails' Skypatrol, and trust me, this way to play autoscrolling levels is gonna be fun and challenging), and the Dynamic Camera feature from Sonic Generations, Extended Camera from Sonic CD, Photo Mode (for taking screenshots), Day and Night Mode in Title Screen (which changes the instrumentation of the music), multiple island view modes on the level select menu (all islands together in one view, one full island, isometric view and traditional 3D view) and DA Garden rhythm game, Pinch Mode for bosses (oh man, the bosses need some work, especially with the multiplayer), and also some neat secrets 😉.
-I am also planning to add a mod about this fangame to Sonic Superstars once it releases.
+I had some ideas that I think may inspire me to make some new gimmicks, they're written on my Notes app (Samsung Notes, since I own a Samsung device). Some of these ideas are for example: QTEs like those in Modern Sonic games (Like Sonic Adventure and Sonic Generations) and Sonic 3 & Knuckles (like in Lava Reef Act 1, and well, chasing sequences), springs and boostpads to keep some momentum and flow (some would become used in funny ways, especially in loops 😁), Variable Autoscrolling Speed (like in Tails' Skypatrol, and trust me, this way to play autoscrolling levels is gonna be fun and challenging), and the Dynamic Camera feature from Sonic Generations (and maybe Sonic Generations' after-images used for Classic Sonic), Extended Camera from Sonic CD, Photo Mode (for taking screenshots), Day and Night Mode in the level select menu (which changes the instrumentation of the music), multiple island view modes on the level select menu (all islands together in one view (only when you have the level pack DLC, or when you finish Lava Reef Zone and Hidden Palace), one full island, isometric view and traditional 3D view) and DA Garden rhythm game, Pinch Mode for bosses (oh man, the bosses need some work, especially with the multiplayer), and also some neat secrets 😉.
+I am also planning to add a mod about this fangame to Sonic Superstars once it releases, and maybe a Super Mario Bros. Wonder, because why not 😁?
 
 ## Story
 I haven't thought of a plot yet, since I focused on gameplay while thinking of this game. So, I'm going to write the plot in the Discussions section when I figure it out.
 
 ## Zones
-And speaking about the zones, I think about some of my favourite obscure zones in the entire Classic Sonic series, including the 8-bit games. I'm planning for Emerald Hill Zone, Starlight Zone, Bridge Zone, Sunset Park Zone, Diamond Dust Zone, Rusty Ruins Zone, Lava Reef Zone, Hidden Palace Zone (from Sonic 3&K, not Sonic 2), Sandopolis Zone, Marble Garden Zone, Underground Zone, Gigalopolis Zone (or Gigapolis), Tidal Tempest Zone, Quartz Quadrant Zone, Aquatic Ruin Zone, Crystal Egg Zone and Sky Chase Zone (or maybe put it as a separate act in another zone). Or, maybe I'll plan for new ones, for example, I've recently planned on a semi-final zone called Egg Citadel Zone. It will feature mirrors utilised in a very strange way (and a lot of sonics and stuff), speed sections (maybe like rainbow roads but not with rainbow colors exactly) as well as platforming sections (maybe I'll look for something like this in Silver Castle Zone from Sonic Blast, sorry 😅) some real royal palace vibes mixed with some factory machinery, and a final boss with all the zone's elements.
+And speaking about the zones, I think about remixing some of my favourite obscure zones in the entire Classic Sonic series, including the 8-bit games. I'm planning for:
+1-Emerald Hill Zone
+2-Starlight Zone
+3-Bridge Zone
+4-Sunset Park Zone
+5-Diamond Dust Zone
+6-Rusty Ruins Zone
+7-Lava Reef Zone
+8-Hidden Palace Zone (from Sonic 3&K, not Sonic 2)
+9-Sandopolis Zone
+10-Marble Garden Zone
+11-Underground Zone
+12-Gigalopolis Zone (or Gigapolis)
+13-Tidal Tempest Zone
+14-Quartz Quadrant Zone
+15-Aquatic Ruin Zone
+16-Crystal Egg Zone and Sky Chase Zone (or maybe put it as a separate act in another zone). Or, maybe I'll plan for new ones, for example, I've recently planned on a semi-final zone called Egg Citadel Zone. It will feature mirrors utilised in a very strange way (and a lot of sonics and stuff), speed sections (maybe like rainbow roads but not with rainbow colors exactly) as well as platforming sections (maybe I'll look for something like this in Silver Castle Zone from Sonic Blast, sorry 😅) some real royal palace vibes mixed with some factory machinery, and a final boss with all the zone's elements.
 
 ## Multiplayer
 Multiplayer, tho, I plan for a normal local multiplayer, but maybe there will be an online multiplayer, although I don't think so (idk why).

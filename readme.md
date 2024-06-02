@@ -66,7 +66,7 @@ And bonus stages are accessed when passing through checkpoints with 50 or more r
   
 4-Act Fruit: Those stages are located between some zones (or maybe I'll make fruit acts for all zones) and only need a fruit (or two, or maybe three) to proceed. They are like fruit acts in Sonic Superstars, an arena full of rings, balloons, zone-specific gimmicks and etc.., where you can collect rings and earn medals to the end, and the player is rewarded with bonus points and the amount of medals collected.  
   
-5- Portals: In a main Zone, a portal opens at a specific area in an act, and the player can enter this portal to collect bonus rings to be teleported to another point of the act at the end.  
+5- Portals: In a zone, a portal opens at a specific area in an act, and the player can enter this portal to collect bonus rings, and at the end, the player is teleported to another point of the act, It's just like in Sonic Superstars.  
   
 *In every case, collecting 100 rings earn the player a medal, while getting 50000 score points earns the player 5 medals.
   

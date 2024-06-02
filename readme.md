@@ -47,7 +47,7 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 13-Binary Circuit Zone    (Cyber Station Zone)  
   
-14-Celestial Stars Zone   (Crystal Egg Zone)  
+14-Celestial Stars Zone   (Crystal Egg Zone & Sleeping Egg Zone)  
   
 15-Egg Citadel Zone       (totally original)  
   

@@ -21,42 +21,40 @@ I haven't thought of a plot yet, since I focused on gameplay while thinking of t
 ## Zones
 And speaking about the zones, I think about remixing some of my favourite obscure zones in the entire Classic Sonic series, including the 8-bit games, as well as adding original zone concepts. The zones between parentheses are the zones that inspire the new ones. Those zones are:  
   
-1-Diamond Isles Zone       (Emerald Hill Zone)  
+1-Diamond Peak Zone       (Emerald Hill Zone & Green Hills Zone)  
   
-2-Skyway Bridge Zone       (Bridge Zone)  
+2-Skyhigh Bridge Zone     (Bridge Zone)  
   
-3-Shining Glimmer Zone     (totally original)  
+3-Mineral Unders Zone     (Quartz Quadrant Zone & Underground Zone)  
   
-4-Mineral Unders Zone      (Quartz Quadrant Zone & Underground Zone)  
+4-Mirage Dunes Zone       (Sandopolis Zone)  
   
-5-Mirage Dunes Zone        (Sandopolis Zone)  
+5-Coral Blades Zone       (Tidal Tempest Zone & Aquatic Ruin Zone & Marble Garden Zone & Rusty Ruin Zone)  
   
-6-Coral Blades Zone        (Tidal Tempest Zone & Aquatic Ruin Zone & Marble Garden Zone & Rusty Ruin Zone)  
+6-Glitter Dust Zone       (Diamond Dust Zone)  
   
-7-Luminous Dust Zone       (Diamond Dust Zone)  
+7-Sakura Petals Zone      (Press Garden Zone Act 2)  
   
-8-Sakura Petals Zone       (totally original)  
+8-Lava Reef Zone          (from Sonic 3 & Knuckles, not original)  
   
-9-Lava Reef Zone           (from Sonic 3 & Knuckles, not original)  
+9-Hidden Palace Zone      (from Sonic 3 & Knuckles, not Sonic 2, not original)  
   
-10-Hidden Palace Zone      (from Sonic 3 & Knuckles, not Sonic 2, not original)  
+10-Twilight Rails Zone    (Sunset Park Zone)  
   
-11-Twilight Trail Zone     (Sunset Park Zone)  
+11-Shining Nexus Zone     (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
   
-12-Techno Nexus Zone       (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
+12-Mecha Rainforest Zone  (Mecha Green Hill Zone)  
   
-13-Mecha Forest Zone       (totally original)  
+13-Binary Circuit Zone    (Cyber Station Zone)  
   
-14-Binary Circuit Zone     (totally original)  
+14-Celestial Stars Zone   (Crystal Egg Zone)  
   
-15-Celestial Crystals Zone (totally original)  
+15-Egg Citadel Zone       (totally original)  
   
-16-Egg Citadel Zone        (totally original)  
-  
-17-Sky Chase Zone (or maybe put it as a separate act in another zone).  
+16-Sky Chase Zone         (or maybe put it as a separate act in another zone).  
   
 ## Multiplayer
-Multiplayer, tho, I plan for a normal local multiplayer, but maybe there will be an online multiplayer, although I don't think so (idk why).
+Multiplayer, tho, I plan for a normal local multiplayer, but maybe there will be an online multiplayer, although I don't think so (idk why). But a lot of online fangames, like Sonic USB Online, encourage me to put online co-op, and also I am going to integrate competition mode (from Sonic 3 & Knuckles) and battle mode from Sonic Superstars, into one full battle mode, you can chose between normal characters and your customisable bots, as well as the ability to choose the stage you want by voting. Battle mode will also be compatible with the level pack DLC, so you're able to choose between the additional levels, too. You can also have teams in battle mode, so you're able to choose between two-team competitions and four-tag-team competitions. My ideas for improving Sonic Superstars co-op is going to be in the Discussions section.
 
 ## Engine and Framework
 And the engine I'm gonna use, maybe I will use the Dash Engine, or Infinity Engine, or the Bumper Engine, or maybe I will make my own 2.5D Engine and post a repo for it separately as soon as I release this game.

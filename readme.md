@@ -27,7 +27,7 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 3-Mineral Unders Zone     (Quartz Quadrant Zone & Underground Zone)  
   
-4-Mirage Dunes Zone       (Sandopolis Zone)  
+4-Pyramid Dunes Zone      (Sandopolis Zone)  
   
 5-Coral Blades Zone       (Tidal Tempest Zone & Aquatic Ruin Zone & Marble Garden Zone & Rusty Ruin Zone)  
   

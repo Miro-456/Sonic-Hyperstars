@@ -56,7 +56,7 @@ And speaking about the zones, I think about remixing some of my favourite obscur
 ## Special and Bonus Stages
 Special Stages will be races against Fang to the Chaos Emeralds across half-pipes, inspired mostly by Sonic 3D Blast (Saturn) special stages and Sonic 4 ep. 2 special stages. Each special stage will be divided to 3 phases , the first and second phases will be collecting set amount of rings as a normal half-pipe special stage, the third phase however, will be chasing a UFO with a Chaos Emerald, you can use dash-pads and red hoops to your advantage and try to prevent Fang to get to the Chaos Emerald while avoiding traps. Also, your rings will act as a timer.
 In co-op, whoever gets the giant ring first is the lead in the first phase, and there are turn exchanges, too.  
-And bonus stages are accessed when passing through checkpoints with 50 or more rings, or by using fruits, and they will be divided to five types:  
+And bonus stages are accessed when passing through checkpoints with 50 or more rings, or by using fruits, and they will be divided to six types:  
   
 1-Blue Spheres: The player will enter into a 3D Blue Spheres stage collecting blue spheres and avoiding red spheres, and the stage becomes faster as time passes, when you progress further into these stages, you will see yellow spheres that lets you bounce, green spheres that turn to blue spheres, and pink spheres that teleport you to another parts of the stage. At the end of every stage, you're rewarded with 5 medals. In co-op, the player who gets to the portal first is the one that collects blue spheres and rings. To access this type of stages, you need to have an amount of rings divisible by 5 (50, 55, 60, etc..).  
   
@@ -64,9 +64,11 @@ And bonus stages are accessed when passing through checkpoints with 50 or more r
   
 3-Rocket Shoes Bonus Stages: The player will enter to a sky environment and travel through it with rocket shoes (Inspired by Sonic Chaos Rocket Shoes Special Stages) collecting rings and shields and some medals, until the energy of rocket shoes goes down. The player is rewarded by bonus points and 3 medals. To access this type of stages, you need to have an even amount of rings (52, 54, etc..) except if it's divisible by 5 (50, 60, etc..).  
   
-4-Act Fruit: Those stages are located between some zones (or maybe I'll make fruit acts for all zones) and only need a fruit (or two, or maybe three) to proceed. They are like fruit acts in Sonic Superstars, an arena full of rings, balloons, zone-specific gimmicks and etc.., where you can collect rings and earn medals to the end, and the player is rewarded with more rings, bonus points and the amount of medals collected.  
+4-Special Stages: Those stages are accessed through giant blue rings in the same act the player collected a Chaos Emerald in, and they are the same special stages, but for collecting medals, just like in Sonic Superstars, and there will be more of those stages and they will be harder than the normal special stages as you progress further.  
   
-5- Portals: In a zone, a portal opens at a specific area in an act, and the player can enter this portal to collect bonus rings, and at the end, the player is teleported to another point of the act, It's just like in Sonic Superstars.  
+5-Act Fruit: Those stages are located between some zones (or maybe I'll make fruit acts for all zones) and only need a fruit (or two, or maybe three) to proceed. They are like fruit acts in Sonic Superstars, an arena full of rings, balloons, zone-specific gimmicks and etc.., where you can collect rings and earn medals to the end, and the player is rewarded with more rings, bonus points and the amount of medals collected.  
+  
+6-Portals: In a zone, a portal opens at a specific area in an act, and the player can enter this portal to collect bonus rings, and at the end, the player is teleported to another point of the act, It's just like in Sonic Superstars.  
   
 *In every case, collecting 100 rings earn the player a medal, while getting 50000 score points earns the player 5 medals. Also, in co-op, the players are allowed to have different shields from bonus stages.  
   

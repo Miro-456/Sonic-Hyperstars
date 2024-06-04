@@ -43,17 +43,17 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 11-Luminous Park Zone     (totally original)  
   
-11-Shining Nexus Zone     (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
+12-Shining Nexus Zone     (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
   
-12-Mecha Rainforest Zone  (Mecha Green Hill Zone)  
+13-Mecha Rainforest Zone  (Mecha Green Hill Zone)  
   
-13-Binary Circuit Zone    (Cyber Station Zone)  
+14-Binary Circuit Zone    (Cyber Station Zone)  
   
-14-Celestial Stars Zone   (Crystal Egg Zone & Sleeping Egg Zone)  
+15-Celestial Stars Zone   (Crystal Egg Zone & Sleeping Egg Zone)  
   
-15-Egg Citadel Zone       (totally original)  
+16-Egg Citadel Zone       (totally original)  
   
-16-Sky Chase Zone         (or maybe put it as a separate act in another zone).  
+17-Sky Chase Zone         (or maybe put it as a separate act in another zone).  
   
 ## Special and Bonus Stages
 Special Stages will be races against Fang to the Chaos Emeralds across half-pipes, inspired mostly by Sonic 3D Blast (Saturn) special stages and Sonic 4 ep. 2 special stages. Each special stage will be divided to 3 phases , the first and second phases will be collecting set amount of rings as a normal half-pipe special stage, the third phase however, will be chasing a UFO with a Chaos Emerald, you can use dash-pads and red hoops to your advantage and try to prevent Fang to get to the Chaos Emerald while avoiding traps. Also, your rings will act as a timer.

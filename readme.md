@@ -41,6 +41,8 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 10-Twilight Rails Zone    (Sunset Park Zone)  
   
+11-Luminous Park Zone     (totally original)  
+  
 11-Shining Nexus Zone     (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
   
 12-Mecha Rainforest Zone  (Mecha Green Hill Zone)  
@@ -58,7 +60,7 @@ Special Stages will be races against Fang to the Chaos Emeralds across half-pipe
 In co-op, whoever gets the giant ring first is the lead in the first phase, and there are turn exchanges, too.  
 And bonus stages are accessed when passing through checkpoints with 50 or more rings, or by using fruits, and they will be divided to six types:  
   
-1-Blue Spheres: The player will enter into a 3D Blue Spheres stage collecting blue spheres and avoiding red spheres, and the stage becomes faster as time passes, when you progress further into these stages, you will see yellow spheres that lets you bounce, green spheres that turn to blue spheres, and pink spheres that teleport you to another parts of the stage. At the end of every stage, you're rewarded with 5 medals. In co-op, the player who gets to the portal first is the one that collects blue spheres and rings. To access this type of stages, you need to have an amount of rings divisible by 5 (50, 55, 60, etc..).  
+1-Blue Spheres: The player will enter into a 3D Blue Spheres stage collecting blue spheres and avoiding red spheres, and the stage becomes faster as time passes, when you progress further into these stages, you will see yellow spheres that lets you bounce, green spheres that turn to blue spheres, and pink spheres that teleport you to another parts of the stage, just like in Sonic Mania. At the end of every stage, you're rewarded with 5 medals. In co-op, the player who gets to the portal first is the one that collects blue spheres and rings. To access this type of stages, you need to have an amount of rings divisible by 5 (50, 55, 60, etc..).  
   
 2-Bouncy Bonus Stages: The player will enter into a 2D stage filled with colourful springs and bouncy bars and bumpers (Inspired by Sonic 1 (8-bit) special stages), as the player bounces his way to the end as the timer counts down, collecting shields and rings and medals hidden throughout the stages, if the player manages to reach the end of the stage, he's rewarded with bonus points and 3 medals, and if not, the player gets out without having any bonus points or medals, and returns to the zone with the shield and medals the player collected. To access this type of stages, you need to have an odd amount of rings (51, 53, etc..) except if it's divisible by 5 (55, 65, etc..).  
   

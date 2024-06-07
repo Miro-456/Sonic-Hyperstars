@@ -35,25 +35,27 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 7-Glitter Dust Zone       (Diamond Dust Zone)  
   
-8-Lava Reef Zone          (from Sonic 3 & Knuckles, not original)  
+8-Callipolis Zone         (totally original)  
   
-9-Hidden Palace Zone      (from Sonic 3 & Knuckles, not Sonic 2, not original)  
+9-Lava Reef Zone          (from Sonic 3 & Knuckles, not original)  
   
-10-Twilight Rails Zone    (Sunset Park Zone)  
+10-Hidden Palace Zone      (from Sonic 3 & Knuckles, not Sonic 2, not original)  
   
-11-Luminous Park Zone     (totally original)  
+11-Twilight Rails Zone    (Sunset Park Zone)  
   
-12-Shining Nexus Zone     (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
+12-Luminous Park Zone     (totally original)  
   
-13-Mecha Rainforest Zone  (Mecha Green Hill Zone)  
+13-Shining Nexus Zone     (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
   
-14-Binary Circuit Zone    (Cyber Station Zone)  
+14-Mecha Rainforest Zone  (Mecha Green Hill Zone)  
   
-15-Celestial Stars Zone   (Crystal Egg Zone & Sleeping Egg Zone)  
+15-Binary Circuit Zone    (Cyber Station Zone)  
   
-16-Egg Citadel Zone       (totally original)  
+16-Celestial Stars Zone   (Crystal Egg Zone & Sleeping Egg Zone)  
   
-17-Sky Chase Zone         (or maybe put it as a separate act in another zone).  
+17-Egg Citadel Zone       (totally original)  
+  
+18-Sky Chase Zone         (or maybe put it as a separate act in another zone).  
   
 ## Special and Bonus Stages
 Special Stages will be races against Fang to the Chaos Emeralds across half-pipes, inspired mostly by Sonic 3D Blast (Saturn) special stages and Sonic 4 ep. 2 special stages. Each special stage will be divided to 3 phases , the first and second phases will be collecting set amount of rings as a normal half-pipe special stage, the third phase however, will be chasing a UFO with a Chaos Emerald, you can use dash-pads and red hoops to your advantage and try to prevent Fang to get to the Chaos Emerald while avoiding traps. Also, your rings will act as a timer.

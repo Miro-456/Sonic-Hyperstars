@@ -32,7 +32,7 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 6-Coral Blades Zone       (Tidal Tempest Zone & Aquatic Ruin Zone & Marble Garden Zone & Rusty Ruin Zone)  
   
-7-Glitter Dust Zone       (Diamond Dust Zone)  
+7-Glitter Mist Zone       (Diamond Dust Zone)  
   
 8-Callipolis Zone         (totally original)  
   

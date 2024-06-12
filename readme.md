@@ -82,7 +82,7 @@ Multiplayer, tho, I plan for a normal local multiplayer, but maybe there will be
 Collectables will be medals, just like Sonic Superstars, you can earn them through bonus stages, as well as special stages, and hidden throughout the level, and obtained by destroying a gold badnik and finishing the stage without retrying, or simply by collecting 100 rings, and I guess in certain cases and maybe by having 50000 score points? So, medals should be spent for unlocking beneficial things to keep the replayability value high. In Sonic Hyperstars, you won't be only spending medals on cosmetics for your battle bot only, your also gonna spend them for cosmetics for your characters, too, and they will appear in normal gameplay, too, as well as skins for your character. Also, they are going to be used to unlocking music for the DA Garden rhythm game, as well as some art and other extras (maybe, cuz I'm not sure about art and extras 🤷‍♂️). There are also fruits hidden throughout zones, but you won't be able to collect them when finishing second acts, but you will be able to buy fruits with medals, too.  
   
 ## Engine and Framework
-And the engine I'm gonna use, maybe I will use the Dash Engine, or Infinity Engine, or the Bumper Engine, or maybe I will make my own 2.5D Engine and post a repo for it separately as soon as I release this game.  
+And the engine I'm gonna use, as I decided to use Unity, I will use Bumper Engine that was used by Sonic GT. Or maybe I will make my own 2.5D Engine and post a repo for it separately as soon as I release this game.  
   
 ## Progress
 I haven't started making it yet, tho. But I'll maybe start it some other time.  

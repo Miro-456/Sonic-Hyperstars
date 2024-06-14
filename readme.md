@@ -85,7 +85,4 @@ Collectables will be medals, just like Sonic Superstars, you can earn them throu
 And the engine I'm gonna use, as I decided to use Unity, I will use Bumper Engine that was used by Sonic GT. Or maybe I will make my own 2.5D Engine and post a repo for it separately as soon as I release this game.  
   
 ## Progress
-I haven't started making it yet, tho. But I'll maybe start it some other time.  
-  
-  
-As you see, this is a humble and very long readme file with megabytes of storage and nothing very special, so if you ever want to contribute to this repo, please teach me some github basics as well as writing markdown files like this, Thanks for reading it, btw.
+I haven't started making it yet, tho. But I'll maybe start it some other time.

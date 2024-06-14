@@ -26,7 +26,7 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 3-Sakura Petals Zone      (Press Garden Zone Act 2)  
   
-4-Mineral Unders Zone     (Quartz Quadrant Zone & Underground Zone)  
+4-Mineral Undergrounds Zone     (Quartz Quadrant Zone & Underground Zone)  
   
 5-Pyramid Dunes Zone      (Sandopolis Zone)  
   
@@ -36,25 +36,25 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 8-Callipolis Zone         (totally original)  
   
-9-Lava Reef Zone          (from Sonic 3 & Knuckles, not original)  
+- Lava Reef Zone          (from Sonic 3 & Knuckles, not original)  
   
-10-Hidden Palace Zone      (from Sonic 3 & Knuckles, not Sonic 2, not original)  
+- Hidden Palace Zone      (from Sonic 3 & Knuckles, not Sonic 2, not original)  
   
-11-Twilight Rails Zone    (Sunset Park Zone)  
+9-Twilight Rails Zone    (Sunset Park Zone)  
   
-12-Luminous Park Zone     (totally original)  
+10-Luminous Park Zone     (totally original)  
   
-13-Shining Nexus Zone     (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
+11-Shining Nexus Zone     (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
   
-14-Mecha Rainforest Zone  (Mecha Green Hill Zone)  
+12-Metallic Wetforest Zone  (Mecha Green Hill Zone)  
   
-15-Binary Circuit Zone    (Cyber Station Zone)  
+13-Binary Circuit Zone    (Cyber Station Zone)  
   
-16-Celestial Stars Zone   (Crystal Egg Zone & Sleeping Egg Zone)  
+14-Cosmic Celesty Zone   (Crystal Egg Zone & Sleeping Egg Zone)  
   
-17-Egg Citadel Zone       (totally original)  
+15-Egg Citadel Zone       (totally original)  
   
-18-Sky Chase Zone         (or maybe put it as a separate act in another zone).  
+- Sky Chase Zone         (or maybe put it as a separate act in another zone).  
   
 ## Special and Bonus Stages
 Special Stages will be races against Fang to the Chaos Emeralds across half-pipes, inspired mostly by Sonic 3D Blast (Saturn) special stages and Sonic 4 ep. 2 special stages. Each special stage will be divided to 3 phases , the first and second phases will be collecting set amount of rings as a normal half-pipe special stage, the third phase however, will be chasing a UFO with a Chaos Emerald, you can use dash-pads and red hoops to your advantage and try to prevent Fang to get to the Chaos Emerald while avoiding traps. Also, your rings will act as a timer.

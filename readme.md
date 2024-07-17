@@ -24,7 +24,7 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 2-Skyhigh Bridge Zone     (Bridge Zone)  
   
-3-Sakura Petals Zone      (Press Garden Zone Act 2)  
+3-Fluroscent Petals Zone      (totally original)  
   
 4-Mineral Undergrounds Zone     (Quartz Quadrant Zone & Underground Zone)  
   
@@ -54,8 +54,6 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 15-Egg Citadel Zone       (totally original)  
   
-- Sky Chase Zone         (or maybe put it as a separate act in another zone).  
-  
 ## Special and Bonus Stages
 Special Stages will be races against Fang to the Chaos Emeralds across half-pipes, inspired mostly by Sonic 3D Blast (Saturn) special stages and Sonic 4 ep. 2 special stages. Each special stage will be divided to 3 phases , the first and second phases will be collecting set amount of rings as a normal half-pipe special stage, the third phase however, will be chasing a UFO with a Chaos Emerald, you can use dash-pads and red hoops to your advantage and try to prevent Fang to get to the Chaos Emerald while avoiding traps. Also, your rings will act as a timer.
 In co-op, whoever gets the giant ring first is the lead in the first phase, and there are turn exchanges, too.  
@@ -82,7 +80,4 @@ Multiplayer, tho, I plan for a normal local multiplayer, but maybe there will be
 Collectables will be medals, just like Sonic Superstars, you can earn them through bonus stages, as well as special stages, and hidden throughout the level, and obtained by destroying a gold badnik and finishing the stage without retrying, or simply by collecting 100 rings, and I guess in certain cases and maybe by having 50000 score points? So, medals should be spent for unlocking beneficial things to keep the replayability value high. In Sonic Hyperstars, you won't be only spending medals on cosmetics for your battle bot only, your also gonna spend them for cosmetics for your characters, too, and they will appear in normal gameplay, too, as well as skins for your character. Also, they are going to be used to unlocking music for the DA Garden rhythm game, as well as some art and other extras (maybe, cuz I'm not sure about art and extras 🤷‍♂️). There are also fruits hidden throughout zones, but you won't be able to collect them when finishing second acts, but you will be able to buy fruits with medals, too.  
   
 ## Engine and Framework
-And the engine I'm gonna use, as I decided to use Unity, I will use Bumper Engine that was used by Sonic GT. Or maybe I will make my own 2.5D Engine and post a repo for it separately as soon as I release this game.  
-  
-## Progress
-I haven't started making it yet, tho. But I'll maybe start it some other time.
+And the engine I'm gonna use, as I decided to use Unity, I will use Freedom Engine that was used by Sonic Freedom. Or maybe I will make my own 2.5D Engine and post a repo for it separately as soon as I release this game.

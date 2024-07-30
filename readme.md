@@ -1,5 +1,5 @@
 ## Hi, and welcome to this repository
-This is a repo for something I've planned to make. It's a 3D sidescrolling Classic Sonic fangame called *__Sonic Hyperstars__*.  
+This is a repo for something I've planned to make. It's a 3D sidescrolling Classic Sonic fangame called __*Sonic Hyperstars*__.  
   
 ## When did I start thinking about it
 The first time I decided to think about it when I imagined a Sonic Mania fangame with full moveset. This idea developed when I saw the success of Super Mario Bros. Wonder against Sonic Superstars, which led me to ask if Super Mario Bros. Wonder had some Sonic style in it, like sonic and his friends wall climbing (like in Sonic USB Online) and stomping (like Modern Sonic) and having interactive elemental shields and so on. So I decided to make a classic sonic 3D sidescrolling fangame but with better graphics (maybe Super Mario Bros. Wonder graphics, kinda, or maybe realistic graphics like Generations or Forces or something) and some (sort of) creative ideas. Some of the ideas may be a ripoff of Super Mario Bros. Wonder (as I'm afraid), but I just wanna get some ideas on my own.  

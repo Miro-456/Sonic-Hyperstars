@@ -44,7 +44,7 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 10-Luminous Park Zone     (totally original)  
   
-11-Shining Nexus Zone     (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
+11-Shooting Nexus Zone     (Starlight Zone & Gigalopolis Zone (or Gigapolis Zone))  
   
 12-Metallic Wetforest Zone  (Mecha Green Hill Zone)  
   

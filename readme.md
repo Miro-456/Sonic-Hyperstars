@@ -30,11 +30,11 @@ And speaking about the zones, I think about remixing some of my favourite obscur
   
 5. Pyramid Dunes Zone      (Sandopolis Zone)  
   
-6. Coral Blades Zone       (Tidal Tempest Zone & Aquatic Ruin Zone & Marble Garden Zone & Rusty Ruinone)  
+6. Coral Blades Zone       (Tidal Tempest Zone & Aquatic Ruin Zone & Marble Garden Zone & Rusty Ruin Zone & Aqua Planet Zone)  
   
-7. Glitter Mist Zone      earnsamond Dust Zone)  
+7. Glitter Mist Zone      (Diamond Dust Zone & Robotnik Winter Zone)  
   
-8. Callipolis Zone         (tota, ly original)  
+8. Callipolis Zone         (totally original)  
   
 - Lava Reef Zone          (from Sonic 3 & Knuckles, not original)  
   
